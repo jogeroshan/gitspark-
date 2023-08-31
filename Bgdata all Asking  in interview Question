@@ -1,0 +1,190 @@
+
+***Capgemini interview questions***
+#python
+1. diff between list and tuple 
+2. list comprehension in Python
+3.explain lambda function
+4. decorator and its types
+#project question
+#sql
+1.explain subquery
+2. imp agreegate function
+3.diff bet cluster and non cluster index
+5. write down all joins query
+
+#AWS
+1.What is Versioning in S3?
+2.What is S3 Replication?
+3.What kind of data can I store in AWS S3?
+
+ #Spark 
+1.all therotical question 
+2.What are the different cluster managers available in  Spark?
+3.Explain Caching in Spark Streaming.
+4.What is File System API
+###################################################################################
+********NEOWARE TECH******
+-Daily Delta file get which location during projects
+-roll of your work during project in brief
+-What kind work perform in office time morning to evening in brief
+- why use emr
+-rdd and df?
+-project flow? Actual which type of clients requirements comes and how implement logic on requirement?
+-After processing data final table we get result  and save in to s3 bucket then after clients how to use that data? For bussines 
+-Diff spark and mr
+-whay spark and whay python
+-kafka ? sparkstreaming?
+########################################################################################
+**********Tiger Analytics*****************
+1.Sql Queries On Join
+2.Highest Salary
+3.Why we used Cluster index
+4.Merge two data frame in Spark
+5.Write a program Sequence by key from Dictionary
+6.Sort a order By key .
+######################################
+*********Impetus interview questions**********
+Introduce yourself and your project? 
+Different between rdd and dataframe? 
+Explain boardcast join in spark? 
+Explain catalyst optimizer? 
+Explain spark architecture? 
+Explain Repartition and coalesce? 
+Different between partitioning and bucketing in hive? 
+Explain external and managed table in hive? 
+SQL queries? 
+Different between list, tuple, dict? 
+In list multiple record are present then find out 2nd largest element in list? 
+But not use sort(), reverse()
+Explain Cost based model in spark?
+#################################################################
+***********Tavant Technology**********************
+Spark Architecture
+What is RDD
+What is Dataframe.
+What is EMR. Why we use EMR. 
+Why we submit our spark job on EMR? 
+
+Why Python is used?
+What is pip in python?
+What is pandas ?
+Implement bubble sort algorithm.
+Write code for prime number program.
+#############################################################
+Congnizent. Multiple choice first round( camera open )
+
+25question.  30min time
+
+hasattr used for 
+
+file open which command used in python
+
+Find current position of file which command used
+
+Kafka replacement
+
+Kafka which file format used
+
+
+Command given and check which are the data manipulation command
+
+Last[1,2,3]
+Last[3]
+Multiple choice provided what type error showing
+
+def f(p,q)
+P°/°q
+f(0,2)
+f(2,0)
+Error 
+
+Select t1.Cid, t2.cname from table1 as t1, table2 as t2
+Error or run
+
+Maximum SQL query and multiple choice provided which query correct or suitable to table output 
+
+log4j   used  in 
+
+
+Check this question once two companies asked in  coding test same question
+
+Table emp
+I'd 
+1
+2
+3
+4
+5
+select sum(1) from emp ;
+select sum(2) from emp ;
+select sum(3) from emp;
+
+Multiple choice provided
+Correct output.  
+5
+10
+15
+#############################################################
+all theory questions
+rdd transformation program
+string,list manipulation program
+sql queries
+questions according to your project
+###############################################################
+********8Citi Bank codility test***************************
+Question 
+
+1Write a function solution that, given two integers A and B, returns a string containing exactly A letters 'a' and exactly B letters 'b' with no three consecutive letters being the same (in other words, neither "aaa" nor "bbb" may occur in the returned string).
+
+2
+A positive integer N is given. The goal is to find the highest power of 2 that divides N. In other words, we have to find the maximum K for which N modulo 2^K is 0
+
+For example, given integer N = 24 the answer is 3, because 2^3 = 8 is the highest power of 2 that divides N.
+
+
+3
+that, given an array A of N integers, returns the smallest positive integer (greater than 0) that does not occur in A.
+
+For example, given A = [1, 3, 6, 4, 1, 2], the function should return 5.
+########################################################
+For me most programing questions were asked from python and in all interview spark was most theory question and SQL one or two at most queries were asked
+And in spark they will ask similar dataframe operation like we do in SQL example total transaction amount at every branch of given bank on specific day , they will give us dataframe with column then you have to write all the transformation you would do to obtain the result
+Besides this there were like scenario based questions like what were the problems or errors that you encountered in you project
+[12:21 In python the most common theory question will be difference between list, set and tuple
+[12:22 And common python  programing questions will be string manipulation related or sorting a tuple or list both strings and numbers
+#######################################################3
+SQL:
+• All types of Joins  
+• Group By
+• CASE-WHEN statement 
+• Union operation, Subqueries, Having clause
+• Windowing Functions like Rank (), Row_Number() & Dense_Rank()
+• Over Clause with Partition and OrderBy
+• Aggregation on windowing functions like SUM(), AVG(), MIN(), MAX() etc.
+• scenario based questions
+Hive:
+• External vs internal tables  
+• Views
+• DataWareHouse vs Datalake
+• Partition vs Bucketing
+• Static partition vs Dynamic partition
+Spark Ecosystem:
+• How Distributed computing works
+• Spark Architecture
+• MapReduce Vs Spark
+• Spark Job flow
+• Catalyst Optimizer
+• How driver works in cluster mode 
+• RDD vs dataframe vs dataset
+• Lazy Evaluation in spark
+• Fault Tolerance in Spark
+• Lineage Graph vs DAG vs DAC scheduler
+• Groupbykey and Reduceby key
+• Persistence and Caching concept with diff.
+• Optimization in Spark
+• How to tune a spark job, write spark submit command with all parameters you know
+• Repartition and Coalesce
+• Partitioning and Bucketing
+• Narrow and Wide transformations
+• scenario based questions
+#####################################THNKS############################
